@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(224, 201, 169);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: rgb(19, 119, 145);
+}
+
+.bordo {
+    color: rgb(94 38 16);
+}
+
+.bordoB {
+    color: rgb(150 49 2);
+}
+
+.bordoArkaPlan {
+    display: inline;
+    background-color: rgb(150 49 2);
+    color: #fff;
+    border-radius: 10px;
+}
+
+.kalin {
+    font-weight: bold;
+}
+
+.ortala {
+    text-align: center;
+}
+
+.ortala span {
+    margin-right: 3px;
+    text-decoration: underline;
+}
+
+.alan {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.afiyetOlsun {
+    font-family: monospace !important;
+    font-size: 28px;
+    text-align: right;
+}
